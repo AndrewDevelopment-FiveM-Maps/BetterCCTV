@@ -1,3 +1,5 @@
+[![Discord](https://img.shields.io/badge/Discord-Join%20Community-blue?style=for-the-badge&logo=discord)](https://discord.gg/4WY5p4jzMq)
+
 ![image](https://user-images.githubusercontent.com/121670301/211095572-b81ad29b-f19a-4997-90e1-fc72a19f5a71.png)
 
 # Andrew's Development BetterCCTV
